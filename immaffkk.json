@@ -1,0 +1,3990 @@
+[
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 1017,
+        "y": 662,
+        "button": "Button.left",
+        "pressed": false,
+        "time": 1738836103.9716358
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1014,
+        "y": 662,
+        "time": 1738836104.0990489
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1008,
+        "y": 661,
+        "time": 1738836104.1066144
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 998,
+        "y": 660,
+        "time": 1738836104.115329
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 984,
+        "y": 659,
+        "time": 1738836104.12294
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 969,
+        "y": 656,
+        "time": 1738836104.1309485
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 954,
+        "y": 653,
+        "time": 1738836104.1384594
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 942,
+        "y": 651,
+        "time": 1738836104.1470122
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 927,
+        "y": 646,
+        "time": 1738836104.154552
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 907,
+        "y": 640,
+        "time": 1738836104.1630774
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 892,
+        "y": 636,
+        "time": 1738836104.1713173
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 878,
+        "y": 632,
+        "time": 1738836104.1788323
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 866,
+        "y": 629,
+        "time": 1738836104.186726
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 866,
+        "y": 629,
+        "time": 1738836104.186726
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 857,
+        "y": 626,
+        "time": 1738836104.1952384
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 857,
+        "y": 626,
+        "time": 1738836104.1952384
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 850,
+        "y": 625,
+        "time": 1738836104.202747
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 850,
+        "y": 625,
+        "time": 1738836104.202747
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 848,
+        "y": 624,
+        "time": 1738836104.2107751
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 848,
+        "y": 624,
+        "time": 1738836104.2107751
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 846,
+        "y": 624,
+        "time": 1738836104.2193396
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 846,
+        "y": 624,
+        "time": 1738836104.2193396
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 845,
+        "y": 623,
+        "time": 1738836104.2268279
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 845,
+        "y": 623,
+        "time": 1738836104.2268279
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 845,
+        "y": 623,
+        "button": "Button.left",
+        "pressed": true,
+        "time": 1738836104.7235823
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 845,
+        "y": 623,
+        "button": "Button.left",
+        "pressed": true,
+        "time": 1738836104.7235823
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 845,
+        "y": 623,
+        "button": "Button.left",
+        "pressed": false,
+        "time": 1738836104.8357208
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 845,
+        "y": 623,
+        "button": "Button.left",
+        "pressed": false,
+        "time": 1738836104.8357208
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836105.560044
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836105.560044
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.0618126
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.0618126
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.0907981
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.0907981
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.1209733
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.1209733
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.1512299
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.1512299
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.18269
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.18269
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.2140517
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.2140517
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.2453923
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.2453923
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.2766817
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.2766817
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.3086116
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.3086116
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.3378732
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.3378732
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.3685234
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.3685234
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.3978834
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.3978834
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.427902
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.4288993
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.45857
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.459493
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.489751
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.489751
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.5189126
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.5189126
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.549816
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836106.549816
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'w'",
+        "time": 1738836106.569407
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'w'",
+        "time": 1738836106.5703247
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836106.580944
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836106.580944
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836107.0787764
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836107.0787764
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836107.1093936
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836107.1093936
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836107.1387596
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836107.1387596
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836107.1666696
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836107.1666696
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'a'",
+        "time": 1738836107.1865873
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'a'",
+        "time": 1738836107.1865873
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'s'",
+        "time": 1738836107.3477974
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'s'",
+        "time": 1738836107.3477974
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'/'",
+        "time": 1738836107.5027847
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'/'",
+        "time": 1738836107.5027847
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'/'",
+        "time": 1738836107.5779269
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'/'",
+        "time": 1738836107.5779269
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'i'",
+        "time": 1738836107.8548381
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'i'",
+        "time": 1738836107.8548381
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'i'",
+        "time": 1738836107.90303
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'i'",
+        "time": 1738836107.90303
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "\"'\"",
+        "time": 1738836108.1725957
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "\"'\"",
+        "time": 1738836108.1725957
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "\"'\"",
+        "time": 1738836108.234944
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "\"'\"",
+        "time": 1738836108.2358298
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'m'",
+        "time": 1738836108.5547793
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'m'",
+        "time": 1738836108.5547793
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'m'",
+        "time": 1738836108.6243443
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'m'",
+        "time": 1738836108.6243443
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "Key.space",
+        "time": 1738836108.7405975
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "Key.space",
+        "time": 1738836108.7405975
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "Key.space",
+        "time": 1738836108.8476562
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "Key.space",
+        "time": 1738836108.8476562
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836109.0471325
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836109.0471325
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'a'",
+        "time": 1738836109.1267657
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'a'",
+        "time": 1738836109.1267657
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'f'",
+        "time": 1738836109.3095386
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'f'",
+        "time": 1738836109.3095386
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'f'",
+        "time": 1738836109.392771
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'f'",
+        "time": 1738836109.392771
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'k'",
+        "time": 1738836109.5096226
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'k'",
+        "time": 1738836109.5096226
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'k'",
+        "time": 1738836109.5758495
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'k'",
+        "time": 1738836109.5758495
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "Key.enter",
+        "time": 1738836109.7552173
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "Key.enter",
+        "time": 1738836109.756194
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "Key.enter",
+        "time": 1738836109.8358283
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "Key.enter",
+        "time": 1738836109.8358283
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836110.0430481
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836110.0430481
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836110.5403962
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836110.5403962
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'s'",
+        "time": 1738836110.653907
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'s'",
+        "time": 1738836110.653907
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836111.0436196
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836111.0436196
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836111.0737038
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836111.0737038
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836111.1039011
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836111.1039011
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836111.1347387
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836111.1347387
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836111.1635444
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836111.1635444
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836111.1937063
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836111.1947012
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.2205079
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.2205079
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'d'",
+        "time": 1738836111.2559602
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'d'",
+        "time": 1738836111.2559602
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.7257123
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.7257123
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.7553246
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.7553246
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.786898
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.786898
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.816593
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.816593
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.8456655
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.8456655
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.8763034
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.8763034
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.9055946
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.9055946
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.935694
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.935694
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.9671133
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.9671133
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.9972346
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836111.9972346
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836112.0047638
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836112.0047638
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'w'",
+        "time": 1738836112.0937521
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'w'",
+        "time": 1738836112.0937521
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836112.51028
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836112.5112662
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836112.5401292
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836112.5401292
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836112.5707996
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836112.5707996
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836112.6004577
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836112.6014326
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836112.62311
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836112.62311
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'a'",
+        "time": 1738836112.717205
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'a'",
+        "time": 1738836112.717205
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836113.120709
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836113.120709
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836113.1509678
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836113.1509678
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836113.1808827
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836113.1808827
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836113.1976624
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836113.1976624
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'s'",
+        "time": 1738836113.249177
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'s'",
+        "time": 1738836113.249177
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836113.7039852
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836113.7039852
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836113.733415
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836113.733415
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836113.7645023
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836113.7645023
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836113.7949963
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836113.7949963
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836113.824215
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836113.824215
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836113.8444617
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836113.8444617
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'d'",
+        "time": 1738836113.8657095
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'d'",
+        "time": 1738836113.8657095
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836114.3516085
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836114.3516085
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836114.3804917
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836114.3804917
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836114.4117486
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836114.4117486
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836114.4416764
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836114.4426053
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836114.4727774
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836114.4727774
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836114.4927
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836114.4927
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'w'",
+        "time": 1738836114.632391
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'w'",
+        "time": 1738836114.632391
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836114.992504
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836114.9935489
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836115.0069735
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836115.0069735
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'a'",
+        "time": 1738836115.1387992
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'a'",
+        "time": 1738836115.1387992
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836115.5151389
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836115.5151389
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836115.54475
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836115.54475
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836115.5752847
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836115.5752847
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836115.6028647
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836115.6028647
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836115.605258
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836115.605258
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'s'",
+        "time": 1738836115.6828234
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'s'",
+        "time": 1738836115.6828234
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836116.105884
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836116.105884
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836116.136224
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836116.136224
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836116.1412215
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836116.1412215
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'d'",
+        "time": 1738836116.211752
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'d'",
+        "time": 1738836116.211752
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836116.6482515
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836116.6482515
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836116.6781156
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836116.6781156
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836116.691624
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836116.691624
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'w'",
+        "time": 1738836116.7459455
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'w'",
+        "time": 1738836116.7459455
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836117.1931624
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836117.1931624
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836117.223716
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836117.223716
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836117.2506595
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836117.2506595
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'a'",
+        "time": 1738836117.3591526
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'a'",
+        "time": 1738836117.3591526
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836117.7545826
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836117.7545826
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836117.7838326
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836117.7838326
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836117.8149629
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836117.8149629
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836117.8270245
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836117.8270245
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'s'",
+        "time": 1738836117.8997247
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'s'",
+        "time": 1738836117.8997247
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836118.3280745
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836118.3280745
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836118.3595319
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836118.360539
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836118.3899221
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836118.3907814
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'d'",
+        "time": 1738836118.4188533
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'d'",
+        "time": 1738836118.4188533
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836118.420151
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836118.420151
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836118.917712
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836118.917712
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836118.9472585
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836118.9472585
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836118.9655168
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836118.9655168
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'w'",
+        "time": 1738836119.0112603
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'w'",
+        "time": 1738836119.0127652
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836119.4747617
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836119.4747617
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836119.5052722
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836119.5052722
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836119.5102692
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836119.5102692
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'a'",
+        "time": 1738836119.5507832
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'a'",
+        "time": 1738836119.5507832
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 846,
+        "y": 622,
+        "time": 1738836119.9387279
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 846,
+        "y": 622,
+        "time": 1738836119.9396412
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 849,
+        "y": 621,
+        "time": 1738836119.9472778
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 849,
+        "y": 621,
+        "time": 1738836119.9472778
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 852,
+        "y": 620,
+        "time": 1738836119.9550867
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 852,
+        "y": 620,
+        "time": 1738836119.9550867
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 855,
+        "y": 620,
+        "time": 1738836119.9627388
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 855,
+        "y": 620,
+        "time": 1738836119.9627388
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836119.9646971
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836119.9646971
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 858,
+        "y": 619,
+        "time": 1738836119.970746
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 858,
+        "y": 619,
+        "time": 1738836119.970746
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 863,
+        "y": 617,
+        "time": 1738836119.9788516
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 863,
+        "y": 617,
+        "time": 1738836119.9788516
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 867,
+        "y": 616,
+        "time": 1738836119.987689
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 867,
+        "y": 616,
+        "time": 1738836119.987689
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 871,
+        "y": 616,
+        "time": 1738836119.9952538
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 871,
+        "y": 616,
+        "time": 1738836119.9952538
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 876,
+        "y": 615,
+        "time": 1738836120.0030231
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 876,
+        "y": 615,
+        "time": 1738836120.0030231
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 881,
+        "y": 615,
+        "time": 1738836120.0109825
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 881,
+        "y": 615,
+        "time": 1738836120.0109825
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 885,
+        "y": 615,
+        "time": 1738836120.0195441
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 885,
+        "y": 615,
+        "time": 1738836120.0195441
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 890,
+        "y": 615,
+        "time": 1738836120.0276694
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 890,
+        "y": 615,
+        "time": 1738836120.0276694
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 895,
+        "y": 615,
+        "time": 1738836120.0353565
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 895,
+        "y": 615,
+        "time": 1738836120.0353565
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'s'",
+        "time": 1738836120.0424502
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'s'",
+        "time": 1738836120.0424502
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 900,
+        "y": 615,
+        "time": 1738836120.0424502
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 900,
+        "y": 615,
+        "time": 1738836120.0424502
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 903,
+        "y": 615,
+        "time": 1738836120.050808
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 903,
+        "y": 615,
+        "time": 1738836120.050808
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 908,
+        "y": 615,
+        "time": 1738836120.0594974
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 908,
+        "y": 615,
+        "time": 1738836120.0594974
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 911,
+        "y": 615,
+        "time": 1738836120.0669217
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 911,
+        "y": 615,
+        "time": 1738836120.0669217
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 915,
+        "y": 615,
+        "time": 1738836120.0755405
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 915,
+        "y": 615,
+        "time": 1738836120.0755405
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 919,
+        "y": 615,
+        "time": 1738836120.082584
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 919,
+        "y": 615,
+        "time": 1738836120.0837889
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 923,
+        "y": 615,
+        "time": 1738836120.0909073
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 923,
+        "y": 615,
+        "time": 1738836120.0909073
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 925,
+        "y": 615,
+        "time": 1738836120.0996392
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 925,
+        "y": 615,
+        "time": 1738836120.0996392
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 928,
+        "y": 615,
+        "time": 1738836120.107288
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 928,
+        "y": 615,
+        "time": 1738836120.107288
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 931,
+        "y": 615,
+        "time": 1738836120.1148472
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 931,
+        "y": 615,
+        "time": 1738836120.1157951
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 933,
+        "y": 615,
+        "time": 1738836120.1231883
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 933,
+        "y": 615,
+        "time": 1738836120.1231883
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 936,
+        "y": 615,
+        "time": 1738836120.1311302
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 936,
+        "y": 615,
+        "time": 1738836120.1311302
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 940,
+        "y": 615,
+        "time": 1738836120.138788
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 940,
+        "y": 615,
+        "time": 1738836120.138788
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 943,
+        "y": 615,
+        "time": 1738836120.1473043
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 943,
+        "y": 615,
+        "time": 1738836120.1473043
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 946,
+        "y": 615,
+        "time": 1738836120.1550388
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 946,
+        "y": 615,
+        "time": 1738836120.1550388
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 949,
+        "y": 615,
+        "time": 1738836120.1634626
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 949,
+        "y": 615,
+        "time": 1738836120.1634626
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 954,
+        "y": 615,
+        "time": 1738836120.1714728
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 954,
+        "y": 615,
+        "time": 1738836120.1714728
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 958,
+        "y": 615,
+        "time": 1738836120.1787744
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 958,
+        "y": 615,
+        "time": 1738836120.1787744
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 963,
+        "y": 614,
+        "time": 1738836120.1871233
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 963,
+        "y": 614,
+        "time": 1738836120.1871233
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 966,
+        "y": 614,
+        "time": 1738836120.194865
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 966,
+        "y": 614,
+        "time": 1738836120.194865
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 971,
+        "y": 614,
+        "time": 1738836120.2025626
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 971,
+        "y": 614,
+        "time": 1738836120.203596
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 978,
+        "y": 614,
+        "time": 1738836120.211575
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 978,
+        "y": 614,
+        "time": 1738836120.211575
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 985,
+        "y": 614,
+        "time": 1738836120.2192266
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 985,
+        "y": 614,
+        "time": 1738836120.2192266
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 993,
+        "y": 614,
+        "time": 1738836120.2273543
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 993,
+        "y": 614,
+        "time": 1738836120.2273543
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1002,
+        "y": 612,
+        "time": 1738836120.2350144
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1002,
+        "y": 612,
+        "time": 1738836120.2350144
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1012,
+        "y": 610,
+        "time": 1738836120.2427437
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1012,
+        "y": 610,
+        "time": 1738836120.2436652
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1019,
+        "y": 610,
+        "time": 1738836120.2507408
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1019,
+        "y": 610,
+        "time": 1738836120.2516627
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1026,
+        "y": 610,
+        "time": 1738836120.2593648
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1026,
+        "y": 610,
+        "time": 1738836120.2593648
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1036,
+        "y": 609,
+        "time": 1738836120.267066
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1036,
+        "y": 609,
+        "time": 1738836120.267066
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1045,
+        "y": 608,
+        "time": 1738836120.275598
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1045,
+        "y": 608,
+        "time": 1738836120.275598
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1054,
+        "y": 605,
+        "time": 1738836120.2825928
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1054,
+        "y": 605,
+        "time": 1738836120.2825928
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1060,
+        "y": 605,
+        "time": 1738836120.2909412
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1060,
+        "y": 605,
+        "time": 1738836120.2909412
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1067,
+        "y": 604,
+        "time": 1738836120.2987435
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1067,
+        "y": 604,
+        "time": 1738836120.2996256
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1073,
+        "y": 603,
+        "time": 1738836120.3070354
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1073,
+        "y": 603,
+        "time": 1738836120.3070354
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1078,
+        "y": 602,
+        "time": 1738836120.3154776
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1078,
+        "y": 602,
+        "time": 1738836120.3154776
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1083,
+        "y": 602,
+        "time": 1738836120.323806
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1083,
+        "y": 602,
+        "time": 1738836120.323806
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1087,
+        "y": 602,
+        "time": 1738836120.3308332
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1087,
+        "y": 602,
+        "time": 1738836120.3308332
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1092,
+        "y": 600,
+        "time": 1738836120.3390188
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1092,
+        "y": 600,
+        "time": 1738836120.3390188
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1095,
+        "y": 600,
+        "time": 1738836120.3466845
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1095,
+        "y": 600,
+        "time": 1738836120.3466845
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1099,
+        "y": 599,
+        "time": 1738836120.3553743
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1099,
+        "y": 599,
+        "time": 1738836120.3553743
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1104,
+        "y": 599,
+        "time": 1738836120.3629148
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1104,
+        "y": 599,
+        "time": 1738836120.3629148
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1108,
+        "y": 598,
+        "time": 1738836120.3710868
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1108,
+        "y": 598,
+        "time": 1738836120.3710868
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1112,
+        "y": 598,
+        "time": 1738836120.3788445
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1112,
+        "y": 598,
+        "time": 1738836120.3788445
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1114,
+        "y": 597,
+        "time": 1738836120.3870218
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1114,
+        "y": 597,
+        "time": 1738836120.3870218
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1117,
+        "y": 597,
+        "time": 1738836120.394726
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1117,
+        "y": 597,
+        "time": 1738836120.394726
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1121,
+        "y": 597,
+        "time": 1738836120.4029322
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1121,
+        "y": 597,
+        "time": 1738836120.4029322
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1123,
+        "y": 595,
+        "time": 1738836120.4109375
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1123,
+        "y": 595,
+        "time": 1738836120.4109375
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1125,
+        "y": 595,
+        "time": 1738836120.4194777
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1125,
+        "y": 595,
+        "time": 1738836120.4194777
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1128,
+        "y": 595,
+        "time": 1738836120.4267855
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1128,
+        "y": 595,
+        "time": 1738836120.4267855
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1129,
+        "y": 595,
+        "time": 1738836120.4349422
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1129,
+        "y": 595,
+        "time": 1738836120.4349422
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1130,
+        "y": 595,
+        "time": 1738836120.4425685
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1130,
+        "y": 595,
+        "time": 1738836120.4425685
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1132,
+        "y": 595,
+        "time": 1738836120.4505951
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1132,
+        "y": 595,
+        "time": 1738836120.4505951
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1134,
+        "y": 595,
+        "time": 1738836120.4590902
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1134,
+        "y": 595,
+        "time": 1738836120.4590902
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1135,
+        "y": 595,
+        "time": 1738836120.4667182
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1135,
+        "y": 595,
+        "time": 1738836120.4667182
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836120.469697
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836120.469697
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1138,
+        "y": 594,
+        "time": 1738836120.475228
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1138,
+        "y": 594,
+        "time": 1738836120.475228
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1140,
+        "y": 593,
+        "time": 1738836120.4827409
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1140,
+        "y": 593,
+        "time": 1738836120.4837482
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1143,
+        "y": 593,
+        "time": 1738836120.490758
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1143,
+        "y": 593,
+        "time": 1738836120.490758
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1145,
+        "y": 591,
+        "time": 1738836120.4992707
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1145,
+        "y": 591,
+        "time": 1738836120.4992707
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836120.5002713
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836120.5002713
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1149,
+        "y": 590,
+        "time": 1738836120.50688
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1149,
+        "y": 590,
+        "time": 1738836120.50688
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1151,
+        "y": 589,
+        "time": 1738836120.5153017
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1151,
+        "y": 589,
+        "time": 1738836120.5153017
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1153,
+        "y": 589,
+        "time": 1738836120.5229177
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1153,
+        "y": 589,
+        "time": 1738836120.5229177
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836120.530111
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'d'",
+        "time": 1738836120.530111
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1156,
+        "y": 588,
+        "time": 1738836120.53111
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1156,
+        "y": 588,
+        "time": 1738836120.53111
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1157,
+        "y": 588,
+        "time": 1738836120.538625
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1157,
+        "y": 588,
+        "time": 1738836120.538625
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1159,
+        "y": 587,
+        "time": 1738836120.5467076
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1159,
+        "y": 587,
+        "time": 1738836120.5467076
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836120.5542865
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'w'",
+        "time": 1738836120.5542865
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1161,
+        "y": 587,
+        "time": 1738836120.5551653
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1161,
+        "y": 587,
+        "time": 1738836120.5551653
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1163,
+        "y": 586,
+        "time": 1738836120.562739
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1163,
+        "y": 586,
+        "time": 1738836120.562739
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1166,
+        "y": 585,
+        "time": 1738836120.5706978
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1166,
+        "y": 585,
+        "time": 1738836120.5706978
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1169,
+        "y": 585,
+        "time": 1738836120.579293
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1169,
+        "y": 585,
+        "time": 1738836120.579293
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'d'",
+        "time": 1738836120.5812907
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'d'",
+        "time": 1738836120.5812907
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1170,
+        "y": 584,
+        "time": 1738836120.5865312
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1170,
+        "y": 584,
+        "time": 1738836120.5875325
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1174,
+        "y": 583,
+        "time": 1738836120.59479
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1174,
+        "y": 583,
+        "time": 1738836120.59479
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1176,
+        "y": 581,
+        "time": 1738836120.6028726
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1176,
+        "y": 581,
+        "time": 1738836120.6028726
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1179,
+        "y": 581,
+        "time": 1738836120.6111867
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1179,
+        "y": 581,
+        "time": 1738836120.6111867
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1182,
+        "y": 579,
+        "time": 1738836120.6186926
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1182,
+        "y": 579,
+        "time": 1738836120.6186926
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1184,
+        "y": 578,
+        "time": 1738836120.6269114
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1184,
+        "y": 578,
+        "time": 1738836120.6269114
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1186,
+        "y": 577,
+        "time": 1738836120.6353316
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1186,
+        "y": 577,
+        "time": 1738836120.6353316
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1189,
+        "y": 577,
+        "time": 1738836120.6429791
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1189,
+        "y": 577,
+        "time": 1738836120.6429791
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1192,
+        "y": 576,
+        "time": 1738836120.6509633
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1192,
+        "y": 576,
+        "time": 1738836120.6509633
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1193,
+        "y": 575,
+        "time": 1738836120.659478
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1193,
+        "y": 575,
+        "time": 1738836120.659478
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1194,
+        "y": 575,
+        "time": 1738836120.6670902
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1194,
+        "y": 575,
+        "time": 1738836120.6670902
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1196,
+        "y": 575,
+        "time": 1738836120.6747704
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1196,
+        "y": 575,
+        "time": 1738836120.6747704
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1198,
+        "y": 573,
+        "time": 1738836120.6826465
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1198,
+        "y": 573,
+        "time": 1738836120.6826465
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1201,
+        "y": 572,
+        "time": 1738836120.6996841
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1201,
+        "y": 572,
+        "time": 1738836120.6996841
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1202,
+        "y": 571,
+        "time": 1738836120.7072976
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1202,
+        "y": 571,
+        "time": 1738836120.7072976
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1205,
+        "y": 571,
+        "time": 1738836120.7149026
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1205,
+        "y": 571,
+        "time": 1738836120.7149026
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1208,
+        "y": 568,
+        "time": 1738836120.7228596
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1208,
+        "y": 568,
+        "time": 1738836120.7228596
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1212,
+        "y": 567,
+        "time": 1738836120.7309113
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1212,
+        "y": 567,
+        "time": 1738836120.7309113
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1218,
+        "y": 563,
+        "time": 1738836120.7384522
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1218,
+        "y": 563,
+        "time": 1738836120.7384522
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1222,
+        "y": 561,
+        "time": 1738836120.7469811
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1222,
+        "y": 561,
+        "time": 1738836120.7469811
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1227,
+        "y": 558,
+        "time": 1738836120.7546132
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1227,
+        "y": 558,
+        "time": 1738836120.755517
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1228,
+        "y": 557,
+        "time": 1738836120.7630696
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1228,
+        "y": 557,
+        "time": 1738836120.7630696
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1232,
+        "y": 555,
+        "time": 1738836120.7712502
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1232,
+        "y": 555,
+        "time": 1738836120.7712502
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1234,
+        "y": 553,
+        "time": 1738836120.7877607
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1234,
+        "y": 553,
+        "time": 1738836120.7877607
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1235,
+        "y": 553,
+        "time": 1738836120.7949793
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1235,
+        "y": 553,
+        "time": 1738836120.7949793
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1239,
+        "y": 552,
+        "time": 1738836120.802726
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1239,
+        "y": 552,
+        "time": 1738836120.8036175
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1239,
+        "y": 551,
+        "time": 1738836120.810635
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1239,
+        "y": 551,
+        "time": 1738836120.8116171
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1241,
+        "y": 550,
+        "time": 1738836120.819239
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1241,
+        "y": 550,
+        "time": 1738836120.819239
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1243,
+        "y": 549,
+        "time": 1738836120.8265579
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1243,
+        "y": 549,
+        "time": 1738836120.8275566
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1243,
+        "y": 549,
+        "time": 1738836120.8509593
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1243,
+        "y": 549,
+        "time": 1738836120.8509593
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836120.918873
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836120.918873
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'w'",
+        "time": 1738836121.0288823
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'w'",
+        "time": 1738836121.0298836
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1243,
+        "y": 549,
+        "time": 1738836121.058826
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1243,
+        "y": 549,
+        "time": 1738836121.058826
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 1243,
+        "y": 549,
+        "button": "Button.left",
+        "pressed": true,
+        "time": 1738836121.3709962
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 1243,
+        "y": 549,
+        "button": "Button.left",
+        "pressed": true,
+        "time": 1738836121.3709962
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.4228673
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.4228673
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.452733
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.4537404
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 1243,
+        "y": 549,
+        "button": "Button.left",
+        "pressed": false,
+        "time": 1738836121.4673605
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 1243,
+        "y": 549,
+        "button": "Button.left",
+        "pressed": false,
+        "time": 1738836121.4673605
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.4835825
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.484511
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.5139427
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.5139427
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.5438895
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.544779
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.5736682
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.5736682
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1241,
+        "y": 549,
+        "time": 1738836121.5871873
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1241,
+        "y": 549,
+        "time": 1738836121.5871873
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1238,
+        "y": 551,
+        "time": 1738836121.5946982
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1238,
+        "y": 551,
+        "time": 1738836121.5946982
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1235,
+        "y": 554,
+        "time": 1738836121.6032023
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1235,
+        "y": 554,
+        "time": 1738836121.6032023
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.6052139
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.6052139
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1232,
+        "y": 560,
+        "time": 1738836121.611316
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1232,
+        "y": 560,
+        "time": 1738836121.611316
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1229,
+        "y": 564,
+        "time": 1738836121.618952
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1229,
+        "y": 564,
+        "time": 1738836121.618952
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1228,
+        "y": 566,
+        "time": 1738836121.6269472
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1228,
+        "y": 566,
+        "time": 1738836121.6269472
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1224,
+        "y": 572,
+        "time": 1738836121.634628
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1224,
+        "y": 572,
+        "time": 1738836121.634628
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.635533
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.635533
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1221,
+        "y": 576,
+        "time": 1738836121.6426568
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1221,
+        "y": 576,
+        "time": 1738836121.6426568
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1219,
+        "y": 578,
+        "time": 1738836121.6506007
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1219,
+        "y": 578,
+        "time": 1738836121.6506007
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1218,
+        "y": 580,
+        "time": 1738836121.6591332
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1218,
+        "y": 580,
+        "time": 1738836121.6591332
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.665624
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'a'",
+        "time": 1738836121.665624
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1213,
+        "y": 586,
+        "time": 1738836121.6666415
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1213,
+        "y": 586,
+        "time": 1738836121.6666415
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836121.667624
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "key": "'s'",
+        "time": 1738836121.667624
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1211,
+        "y": 590,
+        "time": 1738836121.6747859
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1211,
+        "y": 590,
+        "time": 1738836121.6747859
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1206,
+        "y": 596,
+        "time": 1738836121.6827886
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1206,
+        "y": 596,
+        "time": 1738836121.6827886
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1202,
+        "y": 601,
+        "time": 1738836121.6910162
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1202,
+        "y": 601,
+        "time": 1738836121.6910162
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'a'",
+        "time": 1738836121.6975384
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'a'",
+        "time": 1738836121.6975384
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1199,
+        "y": 605,
+        "time": 1738836121.6985426
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1199,
+        "y": 605,
+        "time": 1738836121.6985426
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1196,
+        "y": 608,
+        "time": 1738836121.7066395
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1196,
+        "y": 608,
+        "time": 1738836121.7066395
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1195,
+        "y": 611,
+        "time": 1738836121.7150338
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1195,
+        "y": 611,
+        "time": 1738836121.7150338
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1193,
+        "y": 613,
+        "time": 1738836121.7225707
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1193,
+        "y": 613,
+        "time": 1738836121.7235901
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1191,
+        "y": 615,
+        "time": 1738836121.730592
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1191,
+        "y": 615,
+        "time": 1738836121.730592
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1190,
+        "y": 616,
+        "time": 1738836121.7387066
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1190,
+        "y": 616,
+        "time": 1738836121.7387066
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1190,
+        "y": 617,
+        "time": 1738836121.746957
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1190,
+        "y": 617,
+        "time": 1738836121.746957
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1189,
+        "y": 618,
+        "time": 1738836121.7545023
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1189,
+        "y": 618,
+        "time": 1738836121.7554924
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1188,
+        "y": 619,
+        "time": 1738836121.7629833
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1188,
+        "y": 619,
+        "time": 1738836121.7629833
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'s'",
+        "time": 1738836121.8509583
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "key": "'s'",
+        "time": 1738836121.8524623
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1188,
+        "y": 620,
+        "time": 1738836121.954939
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1188,
+        "y": 620,
+        "time": 1738836121.954939
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 1188,
+        "y": 620,
+        "button": "Button.left",
+        "pressed": true,
+        "time": 1738836122.066974
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 1188,
+        "y": 620,
+        "button": "Button.left",
+        "pressed": true,
+        "time": 1738836122.066974
+    }
+]

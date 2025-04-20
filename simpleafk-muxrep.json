@@ -1,0 +1,1378 @@
+[
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 997,
+        "y": 827,
+        "time": 1745090170.8403466
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 989,
+        "y": 827,
+        "time": 1745090170.847911
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 976,
+        "y": 827,
+        "time": 1745090170.8559682
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 959,
+        "y": 827,
+        "time": 1745090170.8640156
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 941,
+        "y": 827,
+        "time": 1745090170.8720186
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 921,
+        "y": 827,
+        "time": 1745090170.8804197
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 894,
+        "y": 827,
+        "time": 1745090170.8879714
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 870,
+        "y": 827,
+        "time": 1745090170.8960898
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 846,
+        "y": 827,
+        "time": 1745090170.903596
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 825,
+        "y": 827,
+        "time": 1745090170.911705
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 808,
+        "y": 827,
+        "time": 1745090170.920307
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 795,
+        "y": 826,
+        "time": 1745090170.9276676
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 783,
+        "y": 823,
+        "time": 1745090170.936425
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 773,
+        "y": 822,
+        "time": 1745090170.943943
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 766,
+        "y": 821,
+        "time": 1745090170.9520342
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 760,
+        "y": 820,
+        "time": 1745090170.9604557
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 759,
+        "y": 820,
+        "time": 1745090170.9679923
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 755,
+        "y": 818,
+        "time": 1745090170.9756603
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 755,
+        "y": 818,
+        "button": "Button.left",
+        "pressed": true,
+        "time": 1745090171.4715495
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 755,
+        "y": 818,
+        "button": "Button.left",
+        "pressed": false,
+        "time": 1745090171.6085923
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 754,
+        "y": 817,
+        "time": 1745090172.9519207
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 753,
+        "y": 817,
+        "time": 1745090176.7279012
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 753,
+        "y": 817,
+        "time": 1745090176.7359538
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 753,
+        "y": 817,
+        "button": "Button.left",
+        "pressed": true,
+        "time": 1745090198.960424
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 753,
+        "y": 817,
+        "button": "Button.left",
+        "pressed": false,
+        "time": 1745090199.1044412
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 753,
+        "y": 817,
+        "time": 1745090201.8156729
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 754,
+        "y": 817,
+        "time": 1745090201.8241668
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 755,
+        "y": 817,
+        "time": 1745090201.839514
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 755,
+        "y": 817,
+        "time": 1745090201.8480883
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 758,
+        "y": 817,
+        "time": 1745090201.8561738
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 759,
+        "y": 817,
+        "time": 1745090201.8643064
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 760,
+        "y": 817,
+        "time": 1745090201.8713958
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 764,
+        "y": 817,
+        "time": 1745090201.880039
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 767,
+        "y": 817,
+        "time": 1745090201.888245
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 769,
+        "y": 817,
+        "time": 1745090201.8957438
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 772,
+        "y": 817,
+        "time": 1745090201.9041355
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 776,
+        "y": 817,
+        "time": 1745090201.9122467
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 782,
+        "y": 817,
+        "time": 1745090201.9203787
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 788,
+        "y": 817,
+        "time": 1745090201.928152
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 793,
+        "y": 817,
+        "time": 1745090201.9363673
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 803,
+        "y": 817,
+        "time": 1745090201.9439697
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 811,
+        "y": 817,
+        "time": 1745090201.9519749
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 818,
+        "y": 817,
+        "time": 1745090201.9601276
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 828,
+        "y": 817,
+        "time": 1745090201.9677556
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 836,
+        "y": 817,
+        "time": 1745090201.9762585
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 846,
+        "y": 817,
+        "time": 1745090201.9843214
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 853,
+        "y": 817,
+        "time": 1745090201.9923089
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 858,
+        "y": 817,
+        "time": 1745090201.9996438
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 865,
+        "y": 817,
+        "time": 1745090202.0081365
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 874,
+        "y": 817,
+        "time": 1745090202.0165422
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 880,
+        "y": 817,
+        "time": 1745090202.0240963
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 886,
+        "y": 817,
+        "time": 1745090202.0321238
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 892,
+        "y": 817,
+        "time": 1745090202.0396626
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 897,
+        "y": 817,
+        "time": 1745090202.047814
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 904,
+        "y": 817,
+        "time": 1745090202.0563087
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 909,
+        "y": 817,
+        "time": 1745090202.064474
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 915,
+        "y": 817,
+        "time": 1745090202.071506
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 925,
+        "y": 816,
+        "time": 1745090202.0801651
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 932,
+        "y": 815,
+        "time": 1745090202.0884285
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 942,
+        "y": 815,
+        "time": 1745090202.0960622
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 950,
+        "y": 814,
+        "time": 1745090202.1035967
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 961,
+        "y": 811,
+        "time": 1745090202.1115994
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 969,
+        "y": 810,
+        "time": 1745090202.1201768
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 975,
+        "y": 810,
+        "time": 1745090202.1285143
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 983,
+        "y": 809,
+        "time": 1745090202.136214
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 990,
+        "y": 808,
+        "time": 1745090202.1443677
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 997,
+        "y": 808,
+        "time": 1745090202.1523492
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1004,
+        "y": 805,
+        "time": 1745090202.1605313
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1009,
+        "y": 805,
+        "time": 1745090202.1681678
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1013,
+        "y": 804,
+        "time": 1745090202.1756868
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1017,
+        "y": 804,
+        "time": 1745090202.1843436
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1018,
+        "y": 804,
+        "time": 1745090202.1923466
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1019,
+        "y": 804,
+        "time": 1745090202.2001793
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1021,
+        "y": 804,
+        "time": 1745090202.207662
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 1021,
+        "y": 804,
+        "button": "Button.left",
+        "pressed": true,
+        "time": 1745090203.1199524
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 1021,
+        "y": 804,
+        "button": "Button.left",
+        "pressed": false,
+        "time": 1745090203.2717788
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1022,
+        "y": 803,
+        "time": 1745090214.8714561
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1027,
+        "y": 800,
+        "time": 1745090214.880084
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1030,
+        "y": 799,
+        "time": 1745090214.8875844
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1033,
+        "y": 798,
+        "time": 1745090214.8961418
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1037,
+        "y": 796,
+        "time": 1745090214.9036503
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1038,
+        "y": 795,
+        "time": 1745090214.911664
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1040,
+        "y": 794,
+        "time": 1745090214.920317
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1041,
+        "y": 794,
+        "time": 1745090214.9280384
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1042,
+        "y": 794,
+        "time": 1745090214.9357197
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1045,
+        "y": 793,
+        "time": 1745090214.9442785
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1046,
+        "y": 792,
+        "time": 1745090214.952278
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1047,
+        "y": 791,
+        "time": 1745090214.9682336
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1047,
+        "y": 791,
+        "time": 1745090214.9757175
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1048,
+        "y": 791,
+        "time": 1745090214.983503
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1049,
+        "y": 791,
+        "time": 1745090214.9915438
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1049,
+        "y": 791,
+        "time": 1745090215.000159
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1052,
+        "y": 790,
+        "time": 1745090215.0077817
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1053,
+        "y": 789,
+        "time": 1745090215.016348
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1055,
+        "y": 788,
+        "time": 1745090215.023985
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1057,
+        "y": 786,
+        "time": 1745090215.0315828
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1060,
+        "y": 785,
+        "time": 1745090215.0401003
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1062,
+        "y": 784,
+        "time": 1745090215.047908
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1065,
+        "y": 783,
+        "time": 1745090215.0556138
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1071,
+        "y": 781,
+        "time": 1745090215.0641768
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1075,
+        "y": 778,
+        "time": 1745090215.0721798
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1080,
+        "y": 776,
+        "time": 1745090215.080512
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1083,
+        "y": 775,
+        "time": 1745090215.0883188
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1088,
+        "y": 772,
+        "time": 1745090215.0962448
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1092,
+        "y": 771,
+        "time": 1745090215.1043386
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1096,
+        "y": 770,
+        "time": 1745090215.1114671
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1104,
+        "y": 766,
+        "time": 1745090215.1200247
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1107,
+        "y": 765,
+        "time": 1745090215.1285186
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1114,
+        "y": 764,
+        "time": 1745090215.1362894
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1120,
+        "y": 761,
+        "time": 1745090215.1437957
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1126,
+        "y": 760,
+        "time": 1745090215.151882
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1128,
+        "y": 759,
+        "time": 1745090215.160472
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1135,
+        "y": 758,
+        "time": 1745090215.1675172
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1137,
+        "y": 756,
+        "time": 1745090215.1761396
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1142,
+        "y": 754,
+        "time": 1745090215.1840951
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1148,
+        "y": 752,
+        "time": 1745090215.1921022
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1151,
+        "y": 751,
+        "time": 1745090215.1997771
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1154,
+        "y": 751,
+        "time": 1745090215.2082899
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1157,
+        "y": 750,
+        "time": 1745090215.2161164
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1164,
+        "y": 746,
+        "time": 1745090215.2235062
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1166,
+        "y": 745,
+        "time": 1745090215.2316246
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1169,
+        "y": 745,
+        "time": 1745090215.2401984
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1171,
+        "y": 744,
+        "time": 1745090215.247715
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1174,
+        "y": 742,
+        "time": 1745090215.256375
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1174,
+        "y": 742,
+        "time": 1745090215.2640307
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1175,
+        "y": 742,
+        "time": 1745090215.2719088
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1176,
+        "y": 741,
+        "time": 1745090215.2802372
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1178,
+        "y": 740,
+        "time": 1745090215.3040571
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1179,
+        "y": 740,
+        "time": 1745090215.3119736
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1180,
+        "y": 739,
+        "time": 1745090215.3200064
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1181,
+        "y": 739,
+        "time": 1745090215.3285387
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1183,
+        "y": 739,
+        "time": 1745090215.3361044
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1183,
+        "y": 738,
+        "time": 1745090215.3444426
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1184,
+        "y": 737,
+        "time": 1745090215.3514075
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1186,
+        "y": 737,
+        "time": 1745090215.3599784
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1186,
+        "y": 737,
+        "time": 1745090215.3683162
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1190,
+        "y": 736,
+        "time": 1745090215.375929
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1193,
+        "y": 734,
+        "time": 1745090215.3834076
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1194,
+        "y": 733,
+        "time": 1745090215.3914015
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1196,
+        "y": 733,
+        "time": 1745090215.399946
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1198,
+        "y": 732,
+        "time": 1745090215.4074793
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1199,
+        "y": 731,
+        "time": 1745090215.4165444
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1202,
+        "y": 729,
+        "time": 1745090215.4322855
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1204,
+        "y": 728,
+        "time": 1745090215.440398
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1206,
+        "y": 728,
+        "time": 1745090215.4479787
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1211,
+        "y": 725,
+        "time": 1745090215.4554894
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1214,
+        "y": 724,
+        "time": 1745090215.464242
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1216,
+        "y": 723,
+        "time": 1745090215.4712784
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1217,
+        "y": 723,
+        "time": 1745090215.480331
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1218,
+        "y": 722,
+        "time": 1745090215.487955
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 1218,
+        "y": 722,
+        "button": "Button.left",
+        "pressed": true,
+        "time": 1745090216.1360512
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 1218,
+        "y": 722,
+        "button": "Button.left",
+        "pressed": false,
+        "time": 1745090216.3047595
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1218,
+        "y": 722,
+        "time": 1745090216.92799
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1218,
+        "y": 722,
+        "time": 1745090216.9365227
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1218,
+        "y": 724,
+        "time": 1745090216.9520543
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1218,
+        "y": 725,
+        "time": 1745090216.9595914
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1217,
+        "y": 725,
+        "time": 1745090216.9681456
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1215,
+        "y": 727,
+        "time": 1745090216.9758606
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1214,
+        "y": 729,
+        "time": 1745090216.9835298
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1213,
+        "y": 730,
+        "time": 1745090216.9915328
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1211,
+        "y": 732,
+        "time": 1745090217.0000613
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1211,
+        "y": 734,
+        "time": 1745090217.007575
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1209,
+        "y": 735,
+        "time": 1745090217.0162988
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1207,
+        "y": 739,
+        "time": 1745090217.0238452
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1205,
+        "y": 742,
+        "time": 1745090217.0319529
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1202,
+        "y": 746,
+        "time": 1745090217.0395808
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1199,
+        "y": 749,
+        "time": 1745090217.0480506
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1194,
+        "y": 755,
+        "time": 1745090217.0555801
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1191,
+        "y": 760,
+        "time": 1745090217.0642922
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1186,
+        "y": 767,
+        "time": 1745090217.0713782
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1181,
+        "y": 772,
+        "time": 1745090217.0800066
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1172,
+        "y": 778,
+        "time": 1745090217.0876641
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1168,
+        "y": 781,
+        "time": 1745090217.096121
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1163,
+        "y": 785,
+        "time": 1745090217.1036427
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1159,
+        "y": 789,
+        "time": 1745090217.1116467
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1156,
+        "y": 792,
+        "time": 1745090217.1202216
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1154,
+        "y": 793,
+        "time": 1745090217.1277435
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1154,
+        "y": 794,
+        "time": 1745090217.1363065
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1152,
+        "y": 795,
+        "time": 1745090217.1438277
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1150,
+        "y": 797,
+        "time": 1745090217.1518288
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1148,
+        "y": 798,
+        "time": 1745090217.1599116
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1146,
+        "y": 801,
+        "time": 1745090217.1676955
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1140,
+        "y": 804,
+        "time": 1745090217.1761293
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1134,
+        "y": 808,
+        "time": 1745090217.1843474
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1130,
+        "y": 811,
+        "time": 1745090217.1913486
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1125,
+        "y": 813,
+        "time": 1745090217.1998823
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1123,
+        "y": 814,
+        "time": 1745090217.2084045
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1119,
+        "y": 817,
+        "time": 1745090217.2161329
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1117,
+        "y": 819,
+        "time": 1745090217.223611
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1115,
+        "y": 821,
+        "time": 1745090217.2316332
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1112,
+        "y": 824,
+        "time": 1745090217.240194
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1111,
+        "y": 824,
+        "time": 1745090217.247818
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "x": 1110,
+        "y": 826,
+        "time": 1745090217.256284
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "x": 1110,
+        "y": 826,
+        "button": "Button.left",
+        "pressed": true,
+        "time": 1745090217.7916625
+    }
+]
