@@ -5,4 +5,4 @@ Useful for any scenario that involves repitive, cyclic activity, from copy-pasti
 
 [Download (.py)](MuxRepeat.py) - requires installation of additional packages to work
 
-[Download (.exe)](releases/tag/v0.1) - for Windows, ready-to-use
+[Download (.exe)](https://github.com/s2bd/universal-macro-automation/releases/tag/v0.1) - for Windows, ready-to-use
