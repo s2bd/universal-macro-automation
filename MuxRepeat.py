@@ -64,20 +64,11 @@ def stop():
     play_beep(status)
     update_status_label()
 
-    # Stop any active mouse or keyboard listeners during recording
     if recording:
-        mouse.Listener.stop()  # Stop the mouse listener if recording
-        keyboard.Listener.stop()  # Stop the keyboard listener if recording
+        mouse.Listener.stop()
+        keyboard.Listener.stop()
 
-    # Disable play button if no events are recorded
-    if not events:
-        play_btn.configure(state="disabled")
-    else:
-        play_btn.configure(state="normal")  # Enable play button if events exist
-
-    # Disable the play button after stopping (can be re-enabled after loading or recording new data)
-    # The play button will now only be disabled if no events are recorded
-    play_btn.configure(state="normal" if events else "disabled")
+    play_btn.configure(state="disabled" if not events else "normal")
 
 def play():
     global playing, status
@@ -89,19 +80,18 @@ def play():
     if not events:
         return
 
-    start_time = events[0]["time"]  # Time of the first event
+    start_time = events[0]["time"]
     while playing:
         for i, event in enumerate(events):
-            if not playing:  # Stop the playback if 'playing' is set to False
+            if not playing:
                 break
             
-            delay = max(event["time"] - start_time, 0)  # Ensure the delay is non-negative
+            delay = max(event["time"] - start_time, 0)
             if i > 0:
                 prev_event = events[i - 1]
-                # Calculate the real-time duration difference for accuracy
                 real_duration = event["time"] - prev_event["time"]
                 if real_duration > 0:
-                    time.sleep(real_duration)  # Make sure the delay corresponds to real event duration
+                    time.sleep(real_duration)
 
             if event["type"] == "mouse":
                 if event["event"] == "move":
@@ -119,111 +109,145 @@ def play():
                 elif event["event"] == "release":
                     keyboard_controller.release(key)
 
-        # Once the loop finishes, we start it again from the beginning
-        start_time = time.time()  # Reset the start time to the current time to prevent long delays
-
+        start_time = time.time()
 
 def save_to_file():
-    # Open file dialog to choose the file location
     file_path = filedialog.asksaveasfilename(defaultextension=".json", filetypes=[("JSON files", "*.json"), ("All files", "*.*")])
     if file_path:
         with open(file_path, "w") as file:
             json.dump(events, file, indent=4)
-        # Update the status after saving the recording
         global status
-        status = f"Recording Saved!"
+        status = "Recording Saved!"
         play_beep(status)
         update_status_label()
 
-
 def load_from_file():
-    global events, status, playing, recording
-    # Open file dialog to choose the file to load
+    global events, status, playing
     file_path = filedialog.askopenfilename(defaultextension=".json", filetypes=[("JSON files", "*.json"), ("All files", "*.*")])
     if file_path:
         try:
             with open(file_path, "r") as file:
                 events = json.load(file)
-                # If the file is loaded successfully, update the status and playback options
-                status = f"Recording Loaded!"
+                status = "Recording Loaded!"
                 play_beep(status)
                 update_status_label()
-
-                # Disable 'Play' if there are no events, and update the status
-                if not events:
-                    status = "No Events in File"
-                    play_beep(status)
-                    update_status_label()
-                    playing = False  # Disable play button functionality if empty
-                    play_btn.configure(state="disabled")  # Disable the play button
-                else:
-                    playing = True  # Enable play if events are available
-                    status = "Ready to Play"
-                    play_btn.configure(state="normal")  # Enable the play button
-                    update_status_label()
+                play_btn.configure(state="normal" if events else "disabled")
+                playing = bool(events)
+                status = "Ready to Play" if events else "No Events in File"
+                update_status_label()
         except Exception as e:
             status = "Failed to Load"
             play_beep(status)
             update_status_label()
             print("Error loading file:", e)
 
-
-# Function to update the status label in real-time
+# Function to update the status label with color coding
 def update_status_label():
-    status_label.configure(text=f"Status: {status}")
-    app.after(100, update_status_label)  # Update the label every 100ms to keep it real-time
+    status_colors = {
+        "Recording": "#FF3B30",  # macOS red
+        "Playing": "#34C759",   # macOS green
+        "Stopped": "#FF9500",   # macOS orange
+        "Ready": "#007AFF",     # macOS blue
+        "Recording Saved!": "#34C759",
+        "Recording Loaded!": "#34C759",
+        "No Events in File": "#FF3B30",
+        "Failed to Load": "#FF3B30"
+    }
+    status_label.configure(text=f"Status: {status}", text_color=status_colors.get(status, "#FFFFFF"))
+    app.after(100, update_status_label)
+
+# Keyboard shortcuts
+def handle_keypress(event):
+    if event.char == 'r':
+        record()
+    elif event.char == 's':
+        stop()
+    elif event.char == 'p' and play_btn.cget("state") == "normal":
+        threading.Thread(target=play, daemon=True).start()
 
 # GUI Setup
-ctk.set_appearance_mode("dark")
+ctk.set_appearance_mode("light")  # Use light mode for macOS-like aesthetic
+ctk.set_default_color_theme("blue")  # macOS blue accents
+
 app = ctk.CTk()
-app.geometry("400x250")
+app.geometry("600x350")
 app.title("Mux Repeat")
+app.resizable(False, False)  # Fixed size for a polished look
 
 try:
     app.iconbitmap("MuxRepeater.ico")
 except:
-    print("MuxRepeater.ico file not found!")  # Use default icon if not found
+    print("MuxRepeater.ico file not found!")
 
-frame = ctk.CTkFrame(app)
-frame.pack(expand=True)
+# Main frame with frosted glass effect
+main_frame = ctk.CTkFrame(app, fg_color="#F5F5F5", corner_radius=12)
+main_frame.pack(pady=20, padx=20, fill="both", expand=True)
 
-status_label = ctk.CTkLabel(frame, text=f"Status: {status}", text_color="white")
-status_label.grid(row=0, column=1, pady=5)
+# Toolbar frame for status and secondary actions
+toolbar_frame = ctk.CTkFrame(main_frame, fg_color="transparent")
+toolbar_frame.pack(pady=10, fill="x")
 
-record_btn = ctk.CTkButton(frame, text="●\nRecord", width=100, height=100, command=record)
-record_btn.grid(row=1, column=0, padx=10, pady=10)
+status_label = ctk.CTkLabel(toolbar_frame, text=f"Status: {status}", font=("SF Pro Display", 14), text_color="#007AFF")
+status_label.pack(side="left", padx=10)
 
-stop_btn = ctk.CTkButton(frame, text="■\nStop", width=100, height=100, command=stop)
-stop_btn.grid(row=1, column=1, padx=10, pady=10)
+# Save and Load buttons with icons
+save_btn = ctk.CTkButton(
+    toolbar_frame, text="💾 Save", width=80, height=32, corner_radius=8,
+    fg_color="#007AFF", hover_color="#005BB5", command=save_to_file
+)
+save_btn.pack(side="right", padx=5)
 
-play_btn = ctk.CTkButton(frame, text="▶\nPlay", width=100, height=100, command=lambda: threading.Thread(target=play, daemon=True).start())
-play_btn.grid(row=1, column=2, padx=10, pady=10)
+load_btn = ctk.CTkButton(
+    toolbar_frame, text="📂 Load", width=80, height=32, corner_radius=8,
+    fg_color="#007AFF", hover_color="#005BB5", command=load_from_file
+)
+load_btn.pack(side="right", padx=5)
 
-# Disable play button if no events are loaded
-if not events:
-    play_btn.configure(state="disabled")
-else:
-    play_btn.configure(state="normal")
+# Control frame for main buttons
+control_frame = ctk.CTkFrame(main_frame, fg_color="transparent")
+control_frame.pack(pady=20)
 
-save_btn = ctk.CTkButton(frame, text="💾", width=50, height=50, command=save_to_file)
-save_btn.grid(row=2, column=0, padx=5, pady=5)
+# Main control buttons
+record_btn = ctk.CTkButton(
+    control_frame, text="● Record", width=80, height=160, corner_radius=20,
+    fg_color="#FF3B30", hover_color="#D32F2F", font=("SF Pro Display", 20),
+    command=record
+)
+record_btn.grid(row=0, column=0, padx=10)
 
-load_btn = ctk.CTkButton(frame, text="📂", width=50, height=50, command=load_from_file)
-load_btn.grid(row=2, column=1, padx=5, pady=5)
+stop_btn = ctk.CTkButton(
+    control_frame, text="■ Stop", width=100, height=160, corner_radius=20,
+    fg_color="#FF9500", hover_color="#F57C00", font=("SF Pro Display", 20),
+    command=stop
+)
+stop_btn.grid(row=0, column=1, padx=10)
 
-def on_watermark_hover_in(e):
-    watermark.configure(text="Credits: Dewan Mukto @ MuxAI, v2025.02.06-02.2.1")  # Change text on hover
-
-def on_watermark_hover_out(e):
-    watermark.configure(text="Made by MuxAI")  # Revert text when not hovered
+play_btn = ctk.CTkButton(
+    control_frame, text="▶ Play", width=120, height=160, corner_radius=20,
+    fg_color="#34C759", hover_color="#2E7D32", font=("SF Pro Display", 20),
+    command=lambda: threading.Thread(target=play, daemon=True).start()
+)
+play_btn.grid(row=0, column=2, padx=10)
+play_btn.configure(state="disabled" if not events else "normal")
 
 # Watermark with hover effect
-watermark = ctk.CTkLabel(app, text="Made by MuxAI", font=("Arial", 10), fg_color="grey", corner_radius=5, width=600, height=20)
-watermark.pack(side="bottom")
+def on_watermark_hover_in(e):
+    watermark.configure(text="Credits: Stoobid @ Exalux, v2025.06.24-01", text_color="#007AFF")
 
-# Bind watermark hover effects
+def on_watermark_hover_out(e):
+    watermark.configure(text="Made by Stoobid", text_color="#8E8E93")
+
+watermark = ctk.CTkLabel(
+    app, text="Made by MuxAI", font=("SF Pro Text", 10), text_color="#8E8E93",
+    fg_color="#E8ECEF", corner_radius=8, width=200, height=20
+)
+watermark.pack(side="bottom", pady=10)
 watermark.bind("<Enter>", on_watermark_hover_in)
 watermark.bind("<Leave>", on_watermark_hover_out)
 
+# Bind keyboard shortcuts
+app.bind('<KeyPress>', handle_keypress)
 
+# Start status update loop
+app.after(100, update_status_label)
 app.mainloop()
